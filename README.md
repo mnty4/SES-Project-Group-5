@@ -1,4 +1,4 @@
-# SES-Project-Group-5
+# eRestaurant app
 
 To run the project:
 - clone the repository
